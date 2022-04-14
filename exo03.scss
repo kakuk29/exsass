@@ -1,0 +1,7 @@
+// exo03.scss
+@use 'base';
+
+.inverse{
+    background-color: base.$primary-color;
+    color: white;
+}
